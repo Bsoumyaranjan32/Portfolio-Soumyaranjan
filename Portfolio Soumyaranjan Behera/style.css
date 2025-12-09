@@ -1163,6 +1163,7 @@ footer p {
     }
 
     .content p {
+        text-align:center;
         font-size: 1.2rem;
     }
 
@@ -1401,6 +1402,7 @@ footer p {
 }
 
 /* Mobile View End */
+
 
 
 
